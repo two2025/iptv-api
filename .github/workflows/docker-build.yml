@@ -40,6 +40,6 @@ jobs:
           context: .
           push: true
           tags: |
-            guovern/iptv:latest
-            guovern/iptv:${{ env.version }}
+            two2024/iptv:latest
+            two2024/iptv:${{ env.version }}
           platforms: linux/amd64,linux/arm64,linux/arm/v7
