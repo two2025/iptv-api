@@ -15,7 +15,7 @@ docker_build = "docker buildx build --platform linux/amd64,linux/arm64,linux/arm
 pyinstaller = "==6.12.0"
 
 [packages]
-requests = "==2.32.5"
+requests = "==2.33.0"
 bs4 = "==0.0.2"
 tqdm = "==4.67.1"
 async-timeout = "==5.0.1"
